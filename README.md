@@ -5,6 +5,7 @@ My personal portfolio including code selected from coursework and personal proje
 
 ###Computer Organization
 * Cache Simulator (C)
+: A C project which simulates the transformations to the cache which occur given operations.
 * MIPS Assembler (C)
 * Pipeline Simulator (C)
 
@@ -30,7 +31,7 @@ My personal portfolio including code selected from coursework and personal proje
 * Sine Wave Plotting (Python)
 * Text Based Dungeon Crawler (Python)
 
-*[Cache Simulator]: A C project which simulates the transformations to the cache which occur given operations.
+*[Cache Simulator]: 
 *[MIPS Assembler]: A base level MIPS assembler, written in C.
 *[Pipeline Simulator]: Simulates the progress of a pipelined processor as tasks are performed.
 *[Binary Tree]: A custom made binary tree data structure.
