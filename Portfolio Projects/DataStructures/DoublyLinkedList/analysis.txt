@@ -1,0 +1,25 @@
+Analysis of the function Reverse() in the accompanying List.hpp file:
+
+The function is as follows
+==========================================================================
+
+114 template<typename T>//TODO
+115 void List<T>::reverse()
+116 {
+117   List<T>::iterator itr=end();
+118   itr--;
+119   for(int i=0; i<size(); i++)
+120   {
+121     push_back(*itr);
+122     itr=erase(itr);
+123     itr--;
+124   };
+125   //Loop through swapping values of prev and next
+126   //reverses the order of elements in the list. last-> first first-> last
+127 };
+
+============================================================================
+
+This function has O(n) complexity, where n depends on size(). Though this
+function contains 3 function calls, these functions are all elementary of
+the order O(const) therefore O(n) has the highest order and is dominant.

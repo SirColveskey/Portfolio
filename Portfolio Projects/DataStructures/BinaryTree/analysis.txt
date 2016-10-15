@@ -1,0 +1,25 @@
+The following is an analysis of the recursive makeEmpty(BinaryNode* & t)
+function
+
+The function is defined as follows
+
+=======================================================================
+
+121 void BET::makeEmpty(BinaryNode* &t)
+122 {
+123         if(t != NULL)
+124         {
+125                 makeEmpty( t->left );
+126                 makeEmpty( t->right );
+127                 delete t;
+128         }
+129         t = NULL;
+130 }
+
+=======================================================================
+
+This function has a complexity of n^2 because the left branch and right branch
+are called within the function and it is recursive. As a result the big-O
+notation is:
+
+complexity = O(n^2)

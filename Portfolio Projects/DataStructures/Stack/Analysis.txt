@@ -1,0 +1,25 @@
+Analysis of the function Clear() in the accompanying stack.hpp file:
+
+The function is as follows
+==========================================================================
+
+template<typename T>
+void Stack<T>::clear()
+{
+	Data.clear();
+}
+
+this calls the clear function in the STL List class
+
+This function calls the list::size function containing a linear for loop
+
+============================================================================
+
+This function has O(n) complexity, where n depends on size(). All other
+expressions are elementary therefore O(n) has the highest order and is dominant.
+
+
+
+
+
+
