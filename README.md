@@ -5,7 +5,7 @@ My personal portfolio including code selected from coursework and personal proje
 
 ###Computer Organization
 * Cache Simulator (C)
-: A C project which simulates the transformations to the cache which occur given operations.
+:  A C project which simulates the transformations to the cache which occur given operations.
 * MIPS Assembler (C)
 * Pipeline Simulator (C)
 
