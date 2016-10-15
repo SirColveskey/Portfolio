@@ -6,9 +6,12 @@ My personal portfolio including code selected from coursework and personal proje
 ###Computer Organization
 * Cache Simulator (C)
 
-:  A C project which simulates the transformations to the cache which occur given operations.
+- A C project which simulates the transformations to the cache which occur given operations.
 
 * MIPS Assembler (C)
+
+- A base level MIPS assembler, written in C.
+
 * Pipeline Simulator (C)
 
 *[MIPS]: Test
@@ -36,7 +39,7 @@ My personal portfolio including code selected from coursework and personal proje
 * Text Based Dungeon Crawler (Python)
 
 *[Cache Simulator]: 
-*[MIPS Assembler]: A base level MIPS assembler, written in C.
+*[MIPS Assembler]: 
 *[Pipeline Simulator]: Simulates the progress of a pipelined processor as tasks are performed.
 *[Binary Tree]: A custom made binary tree data structure.
 *[Doubly Linked List]: A custom made doubly-linked-list data structure.
