@@ -66,7 +66,10 @@ My personal portfolio including code selected from coursework and personal proje
 		
 		This is made using the Pygame library. 
 		
-		My contributions include researching and choosing Pygame for the task, coming up with the rectangle extension method for creating nearly every object in the game, and creating a player, wall, and room class. I also am responsible for the progression design (powerups) and floor generation algorithm.
+		My contributions include researching and choosing Pygame for the task, 
+		coming up with the rectangle extension method for creating nearly every object in the game, 
+		and creating a player, wall, and room class. 
+		I also am responsible for the progression design (powerups) and floor generation algorithm.
 		
 * Web Scraping (Python)
 
