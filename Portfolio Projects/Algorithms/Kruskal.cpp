@@ -21,7 +21,7 @@
  * Data will be provided in standard
  * input using the following form:
  * n (number of nodes)
- * start# weight# end# (representing an edge in the graph)
+ * start# end# weight# (representing an edge in the graph)
  *
  * This algorithm assumes a connected undirected graph. 
  * Error checking for this condition is handled.
