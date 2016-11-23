@@ -3,6 +3,15 @@ My personal portfolio including code selected from coursework and personal proje
 
 ##Table of Contents
 
+###Algorithms
+* Kruskal's Algorithm - Minimum Spanning Tree Calculation (C++)
+
+* Prim's Algorithm - Minimum Spanning Tree Calculation (C++)
+
+		An Assignment for my Algorithm's course to implement both Kruskal and Prim's algorithm in
+		a language of choice. I opted for C++ to have a more recent lower-level language project
+		in my portfolio.
+		
 ###Computer Organization
 * Cache Simulator (C)
 
